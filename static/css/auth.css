@@ -1,0 +1,5 @@
+/* Legacy auth CSS for smooth transition - Tailwind overrides */
+.subscribe-box { /* No longer used */ }
+.alert { animation: none; }
+.form-error { font-size: 0.875rem; }
+
